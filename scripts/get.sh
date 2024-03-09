@@ -1,0 +1,1 @@
+curl -X GET http://bd3sg-teaaa-aaaaa-qaaba-cai.localhost:8000/messages
